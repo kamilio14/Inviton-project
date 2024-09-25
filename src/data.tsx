@@ -23,8 +23,7 @@ export const epizodesData: Array<EpizodeTypes> = [
   {
     id: 2,
     podcastName: "Dobré ránno | denný podcast denníka SME",
-    epizodeName:
-      "Dobré ráno: Ľudstvo je fascinované mimozemšťanmi. Nájdeme ich?",
+    epizodeName: " Ľudstvo je fascinované mimozemšťanmi. Nájdeme ich?",
     img: Sme,
     sound: audio_02,
   },
@@ -39,16 +38,14 @@ export const epizodesData: Array<EpizodeTypes> = [
   {
     id: 4,
     podcastName: "Dobré ránno | denný podcast denníka SME",
-    epizodeName:
-      "Dobré ráno: Fico narazil v Štrasburgu, súd mu poslal ostrý odkaz",
+    epizodeName: "Fico narazil v Štrasburgu, súd mu poslal ostrý odkaz",
     img: Sme,
     sound: audio_04,
   },
   {
     id: 5,
     podcastName: "Dobré ránno | denný podcast denníka SME",
-    epizodeName:
-      "Kto môže zaKto môže za drahé potraviny a pomáhajú zastropované ceny?",
+    epizodeName: "Kto môže za drahé potraviny a pomáhajú zastropované ceny?",
     img: Sme,
     sound: audio_05,
   },
@@ -63,8 +60,7 @@ export const epizodesData: Array<EpizodeTypes> = [
   {
     id: 7,
     podcastName: "Dobré ránno | denný podcast denníka SME",
-    epizodeName:
-      "Dobré ráno: Putin straší jadrovou vojnou, na Ukrajine sa mu nedarí",
+    epizodeName: "Putin straší jadrovou vojnou, na Ukrajine sa mu nedarí",
     img: Sme,
     sound: audio_07,
   },
