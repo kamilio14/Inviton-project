@@ -1,6 +1,6 @@
 import React from "react";
 import "./index.css";
-import { AllEpizodes } from "./components/All.epizodes";
+import { AllEpizodes } from "./components/All-epizodes";
 import { FC } from "react";
 const App: FC = () => {
   return (

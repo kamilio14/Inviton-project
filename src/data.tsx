@@ -10,7 +10,7 @@ import audio_06 from "./audio/06.mp3";
 import audio_07 from "./audio/07.mp3";
 import audio_08 from "./audio/08.mp3";
 
-import { EpizodeTypes } from "./components/All.epizodes";
+import { EpizodeTypes } from "./components/All-epizodes";
 
 export const epizodesData: Array<EpizodeTypes> = [
   {

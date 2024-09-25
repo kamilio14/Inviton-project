@@ -11,8 +11,6 @@ export type EpizodeTypes = {
   sound: string;
 };
 export const AllEpizodes: FC = () => {
-  console.log("jebo", epizodesData);
-
   return (
     <>
       {epizodesData.map((epizode: EpizodeTypes) => {
